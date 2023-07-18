@@ -48,10 +48,39 @@ Para rodar o projeto no ambiente local siga os seguintes passos:
    
 2. Instale as bibliotecas do projeto executando o comando a seguir:
 
-```bash```  <img src="https://media.giphy.com/media/fXQqNrqKATCNwq6zin/giphy.gif" align="center" height="18" width="18">
-  npm install
+- Terminal Windows
+```bash 
+   py -m pip install chatbot
+```
+
+- Terminal Linux ou MacOS
+```bash 
+   python -m pip install chatbot
+```
+
+3. Após a instalação das bibliotecas, inicie clicando com o botão direito do mouse e em executar python e vai:
+
+```python
+   Executar o Arquivo do Python```
+```
+
+***
+
+##  <img src="https://media.giphy.com/media/OMrq9FmUgObwogeL06/giphy.gif" align="center" height="35" width="45"> Agora você está pronto para interagir com o projeto:
+   -  Pelo terminal de comando do VSCode;
+   -  Clicando no Projeto; 
+   -   ou na _pasta dist_  <img src="https://media.giphy.com/media/fXQqNrqKATCNwq6zin/giphy.gif" align="center" height="25" width="25"> _no arquivo "chat.exe"_  vai baixar o download em ```View raw```   
+   - E após vai abrir na pasta do seu computador em `download` no arquivo _chat.exe.
+
+<br>
+
+   - ## <img src="https://media.giphy.com/media/ImmvDZ2c9xPR8gDvHV/giphy.gif" align="center" height="25" width="25"> Autor
+
+<p>
+    <img align=left margin=10 width=80 src="https://avatars.githubusercontent.com/u/87991807?v=4"/>
+    <p>&nbsp&nbsp&nbspRafaRz76Dev<br>
+    &nbsp&nbsp&nbsp<a href="https://api.whatsapp.com/send/?phone=47999327137">Whatsapp</a>&nbsp;|&nbsp;<a href="https://www.linkedin.com/in/rafael-raizer//">LinkedIn</a>&nbsp;|&nbsp;<a href="https://github.com/RafaRz76Dev">GitHub</a>|&nbsp;<a href="https://public.tableau.com/app/profile/rafael.raizer">Tableau</a>|&nbsp;<a href="https://portifolio-rafarz76dev.netlify.app/">Portfólio</a>&nbsp;</p>
+</p>
 
 
-
-- 
 
