@@ -17,6 +17,10 @@
 ### <img src="https://media.giphy.com/media/9TFBxN300KpCUI6sBD/giphy.gif" align="center" height="65" width="65"> 
 ## [Clique aqui para acessar o Projeto](https://github.com/RafaRz76Dev/cha/raw/master/dist/chat.exe)
 
+<br>
+
+<img height="580em"  src="images/imagem-readme (2).png"  align="center">
+
 <div align="left">
 
 <br>
