@@ -42,7 +42,7 @@
 ***
 ## <img src="https://media.giphy.com/media/G03qiKqY1nq9ioFiXt/giphy.gif" align="center" height="75" width="75">  Instruções de execução
 
-Para rodar o projeto no ambiente local siga os seguintes passos:
+Para rodar o projeto no ambiente local do VsCode siga os seguintes passos:
 
 1. Abra o terminal e navegue até o diretório raiz do projeto.
    
