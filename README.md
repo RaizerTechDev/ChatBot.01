@@ -3,7 +3,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=25&pause=1000&color=6035DF&center=true&vCenter=true&width=435&lines=Olá👋+sou+Rafael+Raizer)](https://git.io/typing-svg)
 
-<img height="120em" src="public/ImagemDevRafa.png"  align="center">
+<img height="120em" src="images/ImagemDevRafa.png"  align="center">
 
 <a href="https://git.io/typing-svg" align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=24&pause=1000&color=120A2A&center=true&vCenter=true&width=435&lines=Desenvolvedor+Front+End+Júnior" alt="Typing SVG" /></a>  <img src="https://media.giphy.com/media/l1J9sBOqBIvnafnUc/giphy.gif" width="70">
 
