@@ -31,3 +31,11 @@
 - [pyinstaller](https://pyinstaller.org/en/stable/)
 - [AWS/EC2 ](https://www.framer.com/api/motion](https://sa-east-1.console.aws.amazon.com/ec2/home?region=sa-east-1#Instances:v=3;$case=tags:true%5C,client:false;$regex=tags:false%5C,client:false)https://sa-east-1.console.aws.amazon.com/ec2/home?region=sa-east-1#Instances:v=3;$case=tags:true%5C,client:false;$regex=tags:false%5C,client:false)
 
+<br>
+
+***
+
+##  <img src="https://media.giphy.com/media/SS8CV2rQdlYNLtBCiF/giphy.gif" align="center" height="35" width="45">  Ferramenta utilizada no projeto
+
+- [VsCode](https://code.visualstudio.com/download) (v1.80.1)
+
