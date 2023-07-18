@@ -39,3 +39,19 @@
 
 - [VsCode](https://code.visualstudio.com/download) (v1.80.1)
 
+***
+## <img src="https://media.giphy.com/media/G03qiKqY1nq9ioFiXt/giphy.gif" align="center" height="75" width="75">  Instruções de execução
+
+Para rodar o projeto no ambiente local siga os seguintes passos:
+
+1. Abra o terminal e navegue até o diretório raiz do projeto.
+   
+2. Instale as bibliotecas do projeto executando o comando a seguir:
+
+```bash```  <img src="https://media.giphy.com/media/fXQqNrqKATCNwq6zin/giphy.gif" align="center" height="18" width="18">
+  npm install
+
+
+
+- 
+
