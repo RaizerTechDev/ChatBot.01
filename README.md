@@ -15,11 +15,11 @@
 
 ### O projeto consiste em uma aplicação onde o usuário vai interagir através de perguntas realizadas pelo _boot_, utilizando a principal stack Python, as bibliotecas os, pip3 e pyinstaller e como deploy instanciando o AWS/EC2 para criar um projeto incrível e de alta performance.
 ### <img src="https://media.giphy.com/media/9TFBxN300KpCUI6sBD/giphy.gif" align="center" height="65" width="65"> 
-## [Clique aqui para acessar o Projeto](https://github.com/RafaRz76Dev/cha/raw/master/dist/chat.exe)
+## [Clique aqui para acessar o ChatBot](https://github.com/RafaRz76Dev/cha/raw/master/dist/chat.exe)
 
 <br>
 
-<img src= "https://media.giphy.com/media/3zSF3Gnr7cxMbi6WoP/giphy.gif" align="center" height="55" width="55"> [Demonstração do projeto]   <img src= "https://media.giphy.com/media/E5DzZsofmgxc9wjbhX/giphy.gif" align="center" height="35" width="35">
+<img src= "https://media.giphy.com/media/3zSF3Gnr7cxMbi6WoP/giphy.gif" align="center" height="55" width="55"> [Demonstração do ChatBot]   <img src= "https://media.giphy.com/media/E5DzZsofmgxc9wjbhX/giphy.gif" align="center" height="35" width="35">
 
 <img height="480em" src="images/readme-video.gif"  align="center">
 
