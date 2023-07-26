@@ -13,7 +13,7 @@
   
 # **_1º PROJETO CHATBOT_**
 
-### O projeto consiste em uma aplicação onde o usuário vai interagir através de perguntas realizadas pelo _boot_, utilizando a principal stack Python, as bibliotecas os, pip3 e pyinstaller e como deploy instanciando o AWS/EC2 para criar um projeto incrível e de alta performance.
+### O projeto consiste em uma aplicação onde o usuário vai interagir através de perguntas realizadas pelo _boot_, utilizando a principal stack Python, as bibliotecas os, pip3 e pyinstaller e como deploy instanciando o AWS/EC2 para um projeto incrível e de alta performance.
 ### <img src="https://media.giphy.com/media/9TFBxN300KpCUI6sBD/giphy.gif" align="center" height="65" width="65"> 
 ## [Clique aqui para acessar o ChatBot](https://github.com/RafaRz76Dev/cha/raw/master/dist/chat.exe)
 
